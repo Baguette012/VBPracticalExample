@@ -1,0 +1,11 @@
+Following on the success of homework 2, your mother wants you to augment the tag sale price tracking
+program. In addition to storing the price of each item sold, she wants to store the name of the item sold.
+Create a class called TagSaleItem, with the following variables (properties) and Get/Set members
+(functions)
+Double itemPrice
+String itemName
+Add a textbox to your form to input the name of the item at the same time as the price.
+The previous program used an array to store a list of prices. It would be awesome if this program used
+an array of objects to store a list of items… but we’ll get to that in a later assignment. For now the
+assignment is just to create a class and a single object and demonstrate how to use it (using the Get/Set
+methods)

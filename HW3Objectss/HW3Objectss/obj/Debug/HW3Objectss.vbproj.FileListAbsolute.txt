@@ -1,0 +1,12 @@
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\obj\Debug\HW3Objectss.vbprojAssemblyReference.cache
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\obj\Debug\HW3Objectss.Form1.resources
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\obj\Debug\HW3Objectss.Resources.resources
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\obj\Debug\HW3Objectss.vbproj.GenerateResource.cache
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\obj\Debug\HW3Objectss.vbproj.CoreCompileInputs.cache
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\bin\Debug\HW3Objectss.exe.config
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\bin\Debug\HW3Objectss.exe
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\bin\Debug\HW3Objectss.pdb
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\bin\Debug\HW3Objectss.xml
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\obj\Debug\HW3Objectss.exe
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\obj\Debug\HW3Objectss.xml
+C:\Users\Gared\source\repos\HW3Objectss\HW3Objectss\obj\Debug\HW3Objectss.pdb
