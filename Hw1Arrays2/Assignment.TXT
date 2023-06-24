@@ -1,0 +1,11 @@
+You are tasked with keeping track of sales at a tag sale. You’re mother has decided to clean the house,
+hold a tag sale, and has asked you to be responsible for keeping track of how much money is taken in
+from the tag sale.
+Create a VB application to track the prices of items sold at the tag sale. Your application should have an
+input box, in which the user will enter the price of an item, and a button to submit the price. There will
+also be 3 labels (or text boxes) to display statistics about the sales: TotalSales, AverageSalePrice,
+TotalItems.
+TotalSales is the total amount of money collected, TotalItems is the total number of items sold, and
+AverageSalePrice is the TotalSales/TotalItems.
+Your program should store each price in an array, from which you will calculate and display the
+statistics. The stats should be updated each time the user enters a new sale.
