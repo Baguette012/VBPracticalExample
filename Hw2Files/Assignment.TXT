@@ -1,0 +1,10 @@
+Following on the success of homework 1, your mother has asked you to augment your tag sale price
+recording program to save all of the data to files. She noticed that if you close the program around
+lunchtime, all of the sales data is lost. She wants it to be permanent.
+Change your program from homework 1 to do two new things
+• Upon opening the program, load data from a file (name the file whatever you want) into the
+array in which you store prices. Update the statistics in the GUI using the loaded data.
+• Continue to run the program normally while collecting data…
+• Before closing the program, write all of the collected data to the file. If you already loaded all
+data from the file into the array when you started the program, then all of that data and the
+new data collected should be in the array. Overwrite the existing file with the new data
