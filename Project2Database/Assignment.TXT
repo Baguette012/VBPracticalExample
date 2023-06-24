@@ -1,0 +1,6 @@
+Following the success of homeworks 1,2 and 3, your mother has asked you to improve your program by
+storing the sale information in a SQL database. You may ask why is your mother asking you to do this?
+She’s your mom, she doesn’t need a reason.
+Your assignment is to augment homework 3 to use a SQL database. Follow the instructions on
+Blackboard to install the necessary Visual Studio modules to use database access. Download the
+ItemDatabase from Blackboard.

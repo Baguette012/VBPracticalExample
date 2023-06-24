@@ -1,0 +1,12 @@
+C:\Users\Gared\source\repos\Project2Database\Project2Database\bin\Debug\Project2Database.exe.config
+C:\Users\Gared\source\repos\Project2Database\Project2Database\bin\Debug\Project2Database.exe
+C:\Users\Gared\source\repos\Project2Database\Project2Database\bin\Debug\Project2Database.pdb
+C:\Users\Gared\source\repos\Project2Database\Project2Database\bin\Debug\Project2Database.xml
+C:\Users\Gared\source\repos\Project2Database\Project2Database\obj\Debug\Project2Database.vbprojAssemblyReference.cache
+C:\Users\Gared\source\repos\Project2Database\Project2Database\obj\Debug\Project2Database.Form1.resources
+C:\Users\Gared\source\repos\Project2Database\Project2Database\obj\Debug\Project2Database.Resources.resources
+C:\Users\Gared\source\repos\Project2Database\Project2Database\obj\Debug\Project2Database.vbproj.GenerateResource.cache
+C:\Users\Gared\source\repos\Project2Database\Project2Database\obj\Debug\Project2Database.vbproj.CoreCompileInputs.cache
+C:\Users\Gared\source\repos\Project2Database\Project2Database\obj\Debug\Project2Database.exe
+C:\Users\Gared\source\repos\Project2Database\Project2Database\obj\Debug\Project2Database.xml
+C:\Users\Gared\source\repos\Project2Database\Project2Database\obj\Debug\Project2Database.pdb
